@@ -19,6 +19,10 @@ class ViewController: UIViewController {
     func plus(){
         number += 1
     }
+    
+    func minus(){
+        number -= 1
+    }
 
 }
 
